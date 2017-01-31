@@ -1,0 +1,24 @@
+# Game Making Tools
+
+- [Compo Tools: Ludumdare](http://ludumdare.com/compo/tools/)
+- [Compo Tools: Indienova](http://indienova.com/sp/gameDevResource)
+- [ITCH.IO Purchased Resource](https://itch.io/my-purchases)
+- [ITCH.IO Game Assets](https://itch.io/game-assets)
+- [Free 2d Platformer Graphics / CC0](http://www.imake-games.com/free-2d-platformer-graphics/)
+- [Common Game Mechanism](http://www.squidi.net/three/)
+- [Tiled2Unity](http://www.seanba.com/tiled2unity)
+- [Using Tiled2Unity to Import TiledMap into Unity](https://www.youtube.com/watch?v=QSVxhzOzfoE&index=16&list=PLiyfvmtjWC_Up8XNvM3OSqgbJoMQgHkVz)
+- [Using Tiled2Unity Import MegaDad](https://github.com/Seanba/Tiled2Unity-MegaDad)
+- [Free Sound](http://www.freesound.org/)
+- [Custom Sound: bfxr](http://www.bfxr.net/)
+- [Free Open Game Art](http://opengameart.org/)
+- [Mario Series 1](https://zhuanlan.zhihu.com/p/20433090), [2](https://zhuanlan.zhihu.com/p/22729686), [3I](https://zhuanlan.zhihu.com/p/20587255), [3II](https://zhuanlan.zhihu.com/p/22729686)
+- [Making Levels](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-designing-video-game-levels--cms-25662)
+- [Put Flowers to Polish Game Environments](https://gamedevelopment.tutsplus.com/tutorials/how-to-polish-your-games-environments--cms-21012)
+- [Pixel Art Tutorials](http://pixelartus.com/tagged/pixel-art-tutorials)
+- [Pixel Paiting Guide](https://zhuanlan.zhihu.com/p/21706579)
+- [Camera Types](http://www.indienova.com/indie-game-development/scroll_back_the_theory_and_practice_of_cameras_in_sidescrollers-ph/)
+- [How to Start your Game Development](https://unity3d.com/cn/learn/tutorials/topics/developer-advice/how-start-your-game-development?playlist=17126)
+- Learn
+    - [Monolithic Devlog](http://monolithdevs.tumblr.com/): Manipulation and Level Design
+    - [Dragon Bros Demo](https://spacelizardstudio.itch.io/dragon-bros): Manipulation，HUD
