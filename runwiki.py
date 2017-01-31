@@ -39,4 +39,8 @@ def show_wiki(filename):
     )
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    import sys
+    if len(sys.argv) > 1:
+        app.run(debug=False, port=sys.argv[1])
+    else:
+        app.run(debug=True)
