@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+import re
 import os
 from glob import glob
 from flask import Flask, abort, redirect
@@ -12,10 +13,9 @@ def load_files():
     files.extend(filename for filename in glob('*/*.md'))
     files.extend(filename for filename in glob('*/*/*.md'))
     files = map(lambda filename: filename.decode('utf8'), files)
-    return u'\n'.join(
-        u'[%s]: /%s' % (filename.strip('.md'), filename.strip('.md'))
-        for filename in files
-    )
+    files = map(lambda filename: re.sub(r'(.*).md', r'\1', filename), files)
+    files = map(lambda filename: u'[%s]: /%s' % (filename, filename), files)
+    return u'\n'.join(files)
 
 @app.route('/')
 def index():
