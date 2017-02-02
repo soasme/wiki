@@ -12,17 +12,24 @@ Reading and Book Notes:
 - [Booknote/批判性思维]
 - [Booknote/控制焦虑]
 
-Collecting Informations:
-
-- [Information/Rent-Must-Know]
-- [Information/Game-Making-Tools]
-- [Information/How-To-Use-RX100III]
-
 Solving Algorithm is INTERESTING:
 
 - [Leetcode/283]
+
+Read the F**k Document:
+
+- [RTFD/rfc2119]: Key words for use in RFCs to Indicate Requirement Levels, such as MUST, SHALL, SHOULD, MAY, etc.
+- [RTFD/rfc2338]: VRRP (Virtual Router Redundancy Protocol v3)
 
 Novels:
 
 - [Novels/行李秤]
 - [Novels/鸡窝]
+
+Information I collected are here.
+
+- Lists:
+    - [Information/Rent-Must-Know]
+    - [Information/Game-Making-Tools]
+- Tutorials:
+    - [Information/How-To-Use-RX100III]
