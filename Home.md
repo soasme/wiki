@@ -21,6 +21,10 @@ Read the F**k Document:
 - [RTFD/rfc2119]: Key words for use in RFCs to Indicate Requirement Levels, such as MUST, SHALL, SHOULD, MAY, etc.
 - [RTFD/rfc5798]: VRRP (Virtual Router Redundancy Protocol v3)
 
+Man:
+
+- [RTFD/man-ipvsadm]: ipvsadm - Linux Virtual Server administration
+
 Novels:
 
 - [Novels/行李秤]
