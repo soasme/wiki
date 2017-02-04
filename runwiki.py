@@ -33,7 +33,15 @@ def show_wiki(filename):
         body = body.decode('utf8')
         body += load_files()
         body = markdown(body)
-    return '<html><head><title>%(title)s</title></head><body>%(body)s</body></html>' % dict(
+    return '''<html>
+    <head>
+        <meta name=viewport content="width=device-width, initial-scale=1">
+        <title>%(title)s</title>
+    </head>
+    <body>
+        %(body)s
+    </body>
+</html>''' % dict(
         title=title,
         body=body,
     )
