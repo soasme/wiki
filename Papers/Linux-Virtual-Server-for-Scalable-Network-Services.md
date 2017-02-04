@@ -160,4 +160,8 @@ Connection Affinity:
 - LVS only support IP load balancing techniques, so it cannot do content-based scheduling for different servers.
 - The failover and takeover of primary load balancer to backup will cause the established connections in the state table lost. - Just resend it.
 
-Source: [Linux Virtual Server for Scalable Network Services](http://www.linuxvirtualserver.org/ols/lvs.pdf)
+## Read More
+- Source: [Linux Virtual Server for Scalable Network Services](http://www.linuxvirtualserver.org/ols/lvs.pdf)
+- [LVS Mini Howto](http://www.austintek.com/LVS/LVS-HOWTO/mini-HOWTO/LVS-mini-HOWTO.html)
+- [LVS Howto](http://www.austintek.com/LVS/LVS-HOWTO/HOWTO/index.html)
+
