@@ -18,6 +18,7 @@ Solving Algorithm is INTERESTING:
 
 Read the F**k Document:
 
+- [RTFD/rfc826]: ARP (Address Resolution Protocol)
 - [RTFD/rfc2119]: Key words for use in RFCs to Indicate Requirement Levels, such as MUST, SHALL, SHOULD, MAY, etc.
 - [RTFD/rfc5798]: VRRP (Virtual Router Redundancy Protocol v3)
 
