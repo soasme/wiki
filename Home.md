@@ -25,6 +25,10 @@ Man:
 
 - [RTFD/man-ipvsadm]: ipvsadm - Linux Virtual Server administration
 
+Papers:
+
+- [Papers/Linux-Virtual-Server-for-Scalable-Network-Services]: very initial state of LVS design paper.
+
 Novels:
 
 - [Novels/行李秤]
