@@ -8,6 +8,7 @@ Here are [Workflows] I collected from Internet or I thought by myself.
 
 Reading and Book Notes:
 
+- [Booknote/Understanding-The-Linux-Kernel]
 - [Booknote/How-To-Live-on-24-Hours-A-Day]
 - [Booknote/批判性思维]
 - [Booknote/控制焦虑]

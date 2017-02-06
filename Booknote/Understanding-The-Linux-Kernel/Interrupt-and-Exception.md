@@ -1,0 +1,55 @@
+# Interrupts and Exceptions
+
+- What is interrupt?
+    - An interrupt is usually defined as an event that alters the sequence of instructions executed by a processor.
+    - An interrupt is issued by interval timers or I/O devices.
+    - devided into
+        - synchronous interrupts ( by cpu control unit )
+        - asynchronous interrupts ( by hardware devices )
+- What is Exception?
+    - An Exception is caused either
+        - by programming errors
+            - deliver it to the current process one of the signals
+        - by anomalous conditions that must be handled by the kernel.
+            - perform assembly instructions to recover from it (like Page Fault)
+- The Role of Interrupt Signals
+    - what happens when interrupt signal arrives?
+        - cpu stops what it's currently doing
+            - cpu saves current value of pc in kernel mode
+        - cpu switch to a new activity
+            - cpu places an address related to interrupt type into pc
+    - what's the difference between context switch?
+        - the running code is not a process but rather a kernel control path that runs at the expense of the same process.
+    - why interrupt handling is sensitive?
+        - interrupts can come anytime on execution something else
+        - simultaneously occured interrupts
+        - some critical regions exist
+- Interrupts and Exceptions
+    - interrupts
+        - maskable interrupts
+            - IRQs issued by I/O devices.
+            - Ignored by CU as long as it remains masked.
+        - nonmaskable interrupts
+            - A few critical events (such as hardware failures)
+            - Always recoginized by the CPU.
+    - exceptions
+        - processor-detected exceptions
+            - faults
+                - correctable, restart with no loss of continuity.
+                    - why?: saved eip is the address of the instruction that caused the fault.
+            - traps
+            - aborts
+        - programmed exceptions
+- IRQs and Interrupts
+- Exceptions
+- Interrupt Descriptor Table
+- Hardware Handling of Interrupts and Exceptions
+- Nested Execution of Exception and Interrupt Handlers
+- Initializing the Interrupt Descriptor Table
+- Preliminary Initialization of the IDT
+- Exception Handling
+- Saving the Registers for the Exception Handler
+- Interrupt Handling
+- Softirqs and Tasklets
+- Work Queues
+- Returning from Interrupts and Exceptions
