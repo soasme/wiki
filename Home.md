@@ -35,6 +35,7 @@ Novels:
 
 - [Novels/行李秤]
 - [Novels/鸡窝]
+- [Novels/Poems]
 
 Information I collected are here.
 
