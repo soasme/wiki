@@ -40,9 +40,12 @@ Novels:
 Information I collected are here.
 
 - Lists:
+    - [Information/Github] lists my side-projects.
     - [Information/Rent-Must-Know]
     - [Information/Game-Making-Tools]
 - Tutorials:
     - [Information/How-To-Use-RX100III]
+- Guide:
+    - [Information/IELTS]
 
 Collected [Useful-Tools].
