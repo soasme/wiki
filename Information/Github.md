@@ -50,6 +50,6 @@ Here lists all of the projects I wrote in the past.
 
 ## WIP:
 
-- [soasme/pre4k] is an experimental project to explore pre-fork mechanism.
-- [soasme/riotpy] is a React-similar component-based UI framework, but for python.
-- [soasme/Jabby] is an IOS applicaiton for GTalk.
+- [soasme/pre4k](https://github.com/soasme/pre4k) is an experimental project to explore pre-fork mechanism.
+- [soasme/riotpy](https://github.com/soasme/riotpy) is a React-similar component-based UI framework, but for python.
+- [soasme/Jabby](https://github.com/soasme/Jabby) is an IOS applicaiton for GTalk.
