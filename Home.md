@@ -43,10 +43,10 @@ Information I collected are here.
     - [Information/Github] lists my side-projects.
     - [Information/Rent-Must-Know]
     - [Information/Game-Making-Tools]
+    - Collected [Information/Useful-Tools].
 - Tutorials:
     - [Information/How-To-Use-RX100III]
 - Guide:
     - [Information/IELTS]
         - [Information/IELTS-Speaking]
 
-Collected [Useful-Tools].
