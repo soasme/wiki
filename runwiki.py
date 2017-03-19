@@ -33,17 +33,24 @@ def show_wiki(filename):
         body = body.decode('utf8')
         body += load_files()
         body = markdown(body)
+    theme = '''<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    '''
     return '''<html>
     <head>
         <meta name=viewport content="width=device-width, initial-scale=1">
         <title>%(title)s</title>
+        %(theme)s
     </head>
     <body>
-        %(body)s
+        <div class="container">
+            %(body)s
+        </div>
     </body>
 </html>''' % dict(
         title=title,
         body=body,
+        theme=theme,
     )
 
 if __name__ == '__main__':
