@@ -1,5 +1,6 @@
 # Game Making Tools
 
+- [Lets create a list of all 100% free 2D assets](https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/)
 - [Compo Tools: Ludumdare](http://ludumdare.com/compo/tools/)
 - [Compo Tools: Indienova](http://indienova.com/sp/gameDevResource)
 - [ITCH.IO Purchased Resource](https://itch.io/my-purchases)
@@ -16,6 +17,7 @@
 - [Making Levels](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-designing-video-game-levels--cms-25662)
 - [Put Flowers to Polish Game Environments](https://gamedevelopment.tutsplus.com/tutorials/how-to-polish-your-games-environments--cms-21012)
 - [Pixel Art Tutorials](http://pixelartus.com/tagged/pixel-art-tutorials)
+- [Pixel Art: piskelapp](http://www.piskelapp.com/)
 - [Pixel Paiting Guide](https://zhuanlan.zhihu.com/p/21706579)
 - [Camera Types](http://www.indienova.com/indie-game-development/scroll_back_the_theory_and_practice_of_cameras_in_sidescrollers-ph/)
 - [How to Start your Game Development](https://unity3d.com/cn/learn/tutorials/topics/developer-advice/how-start-your-game-development?playlist=17126)

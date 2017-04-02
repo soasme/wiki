@@ -46,6 +46,7 @@ Here lists all of the projects I wrote in the past.
     - [Pong](https://github.com/soasme/Pong) is a Unity 2D game.
     - [Galaga](https://github.com/soasme/Galaga) is a Unity 2D game implementation of Galaxian.
     - [HoldOnFor20Seconds](https://github.com/soasme/HoldOnFor20Seconds) is a Unity 2D game.
+    - [Gomoku](https://github.com/soasme/Gomoku) is a Unity 2D game. // What is [Gomoku](https://en.wikipedia.org/wiki/Gomoku)?
     - [Flappy Bird](https://github.com/soasme/FlappyBird), implemented by quick-cocos2dx.
 
 ## WIP:
